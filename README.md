@@ -1,4 +1,4 @@
-[readme.md](https://github.com/user-attachments/files/32911028/readme.md)
+
 # تحلیل روابط Beta و همبستگی چندین سهم از گروه های مختلف با یکدیگر و شاخص کل بازار بورس تهران
 
 ## 📌 نمای کلی پروژه
